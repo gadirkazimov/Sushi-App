@@ -3,7 +3,7 @@
 ## 📸 Screenshots
 
 ### Introduction Screen
-![Introduction Screen](screenshoots/intorduction_screen.png)
+![Introduction Screen](screenshoots/into_screen.png)
 
 ### Main Screen
 ![Main Screen](screenshoots/main_screen.png)
